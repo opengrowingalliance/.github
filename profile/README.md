@@ -85,8 +85,8 @@ Your curiosity and methodical approach help us improve and validate OGSP. Design
 
 Ready to join the movement? Here are some concrete first steps:
 
-1. **Explore the Protocol**: Read through the [specifications](https://github.com/opengrowingtrust/ogsp-specs) to understand OGSP's capabilities
-2. **Join the Community**: Introduce yourself on the [forum](https://forum.opengrowingtrust.org) and find others with similar interests
+1. **Explore the Protocol**: Read through the [specifications](https://github.com/opengrowingalliance/specifications/blob/main/v2.0/ogsp-root-spec.md) to understand OGSP's capabilities
+2. **Join the Community**: Introduce yourself on the [forum](https://github.com/orgs/opengrowingalliance/discussions) and find others with similar interests
 3. **Start Small**: Try implementing a simple OGSP recipe for a plant you're already growing
 4. **Share Your Experience**: Document your journey and share it with the community
 5. **Find Your Niche**: Join a working group that matches your skills and interests
