@@ -1,4 +1,4 @@
-# The OGSP Manifesto: Let's Grow a Solarpunk Future Together
+# The OGSP Manifesto: Growing a Solarpunk Future
 
 ## A Call to Cultivate Change
 
