@@ -1,14 +1,14 @@
-# The OGSP Manifesto: Growing a Solarpunk Future
+# The OGP Manifesto: Let's Grow a Solarpunk Future Together
 
 ## A Call to Cultivate Change
 
 In a world where agricultural technology increasingly serves the interests of large corporations rather than communities, where knowledge is enclosed rather than shared, and where small farmers struggle against systemic disadvantages, we're building a different path forward—and we need your help.
 
-The Open Growing System Protocol (OGSP) isn't just a technical specification—it's a movement to democratize growing technology, empower communities, and cultivate a more just and sustainable world. And it's a journey we're inviting you to join.
+The Open Growing Protocol (OGP) isn't just a technical specification—it's a movement to democratize growing technology, empower communities, and cultivate a more just and sustainable world. And it's a journey we're inviting you to join.
 
-## What OGSP Makes Possible
+## What OGP Makes Possible
 
-OGSP creates concrete, practical tools that change how we grow:
+OGP creates concrete, practical tools that change how we grow:
 
 - **A small farmer in Brazil** can use precision growing techniques previously only available to large agribusinesses, optimizing resource use while maintaining independence
 - **A cannabis grower in California** can share their exact growing recipe with someone in Michigan, with the system automatically adapting to different hardware and climate conditions
@@ -16,7 +16,7 @@ OGSP creates concrete, practical tools that change how we grow:
 - **An indigenous community** can document traditional growing knowledge in a format that preserves its integrity while making it accessible to future generations
 - **A network of hobbyist growers** can collectively improve cultivation techniques through shared data and experiments, with attribution that respects each contributor
 
-These aren't just aspirations—they're made possible by OGSP's technical capabilities:
+These aren't just aspirations—they're made possible by OGP's technical capabilities:
 
 - **Recipe Portability**: Define growing recipes once, deploy them anywhere, with the system handling hardware differences
 - **Hardware Interoperability**: Mix and match sensors and actuators from different manufacturers, breaking vendor lock-in
@@ -31,25 +31,25 @@ These aren't just aspirations—they're made possible by OGSP's technical capabi
 
 We're building systems that distribute power, enhance community resilience, and regenerate ecosystems. Join us in creating technology that's judged not merely by its sophistication but by how it improves lives and ecosystems.
 
-**Take Action**: Help develop low-cost sensor alternatives, contribute to the appropriate technology guidelines, or test OGSP implementations in resource-constrained environments.
+**Take Action**: Help develop low-cost sensor alternatives, contribute to the appropriate technology guidelines, or test OGP implementations in resource-constrained environments.
 
 ### 2. Knowledge Belongs in the Commons
 
 Growing knowledge—whether developed by traditional farmers over generations or by specialized communities like cannabis cultivators—belongs in the commons. Help us create systems for sharing and improving growing methodologies while ensuring proper attribution and respect.
 
-**Take Action**: Document your growing techniques using OGSP recipe formats, contribute to translation efforts, or help develop attribution mechanisms that respect diverse knowledge traditions.
+**Take Action**: Document your growing techniques using OGP recipe formats, contribute to translation efforts, or help develop attribution mechanisms that respect diverse knowledge traditions.
 
 ### 3. Appropriate Technology Over Needless Complexity
 
 We prioritize solutions that are appropriate to their context. Join us in building systems that can be implemented with minimal resources while scaling to more advanced capabilities when available.
 
-**Take Action**: Develop implementations for single-board computers, create offline-capable interfaces, or document DIY approaches to OGSP-compatible hardware.
+**Take Action**: Develop implementations for single-board computers, create offline-capable interfaces, or document DIY approaches to OGP-compatible hardware.
 
 ### 4. Decentralization and Resilience
 
 Centralized systems are vulnerable to disruption and control. Help us design for distributed resilience—systems that function without central coordination and maintain local autonomy.
 
-**Take Action**: Contribute to mesh networking capabilities, develop offline synchronization mechanisms, or create local-first implementations of OGSP components.
+**Take Action**: Contribute to mesh networking capabilities, develop offline synchronization mechanisms, or create local-first implementations of OGP components.
 
 ### 5. Ecological Integration
 
@@ -67,19 +67,19 @@ We need your help creating reference implementations, developing user interfaces
 
 ### Growers and Farmers
 
-Your knowledge and experience are the foundation of everything we do. Whether you're a commercial farmer, a cannabis cultivator, or a backyard gardener, your insights drive OGSP's development.
+Your knowledge and experience are the foundation of everything we do. Whether you're a commercial farmer, a cannabis cultivator, or a backyard gardener, your insights drive OGP's development.
 
 Share your techniques in a format that gives you proper credit, test early implementations and provide feedback, or simply tell us what you need from technology to make your growing more sustainable and successful.
 
 ### Community Organizers and Educators
 
-Your ability to connect people and share knowledge is essential to OGSP's adoption. Help us build learning communities, develop educational resources, and ensure that this technology reaches those who need it most.
+Your ability to connect people and share knowledge is essential to OGP's adoption. Help us build learning communities, develop educational resources, and ensure that this technology reaches those who need it most.
 
-Organize workshops in your community, develop curriculum around OGSP, or help us understand how to better serve underrepresented growing communities.
+Organize workshops in your community, develop curriculum around OGP, or help us understand how to better serve underrepresented growing communities.
 
 ### Researchers and Students
 
-Your curiosity and methodical approach help us improve and validate OGSP. Design experiments to test growing methodologies, analyze data from community implementations, or develop new applications of the protocol.
+Your curiosity and methodical approach help us improve and validate OGP. Design experiments to test growing methodologies, analyze data from community implementations, or develop new applications of the protocol.
 
 ## Getting Started
 
@@ -93,15 +93,15 @@ Ready to join the movement? Here are some concrete first steps:
 
 ### Beginner-Friendly Projects
 
-- **Recipe Documentation**: Convert an existing growing guide to OGSP format
-- **Sensor Integration**: Connect a simple temperature sensor to an OGSP system
+- **Recipe Documentation**: Convert an existing growing guide to OGP format
+- **Sensor Integration**: Connect a simple temperature sensor to an OGP system
 - **Translation**: Help translate core documentation into your language
 - **Testing**: Test existing implementations and provide feedback
-- **Community Building**: Organize a local meetup to introduce OGSP
+- **Community Building**: Organize a local meetup to introduce OGP
 
 ## The Future We're Building Together
 
-The OGSP isn't just a protocol—it's a community working toward a more just, sustainable, and abundant future. Whether you're a farmer, a grower, a developer, a maker, or simply someone who shares our vision, there's a place for you in this movement.
+The OGP isn't just a protocol—it's a community working toward a more just, sustainable, and abundant future. Whether you're a farmer, a grower, a developer, a maker, or simply someone who shares our vision, there's a place for you in this movement.
 
 Together, we can cultivate not just plants, but a better world—one where technology serves people and planet, knowledge flows freely, and communities thrive in harmony with nature.
 
@@ -111,4 +111,4 @@ Will you join us?
 
 ---
 
-*This manifesto represents the guiding vision of the Open Growing System Protocol. The technical specifications, while essential, are simply tools to realize this broader vision of a solarpunk future where growing technology empowers rather than exploits, connects rather than divides, and regenerates rather than depletes.*
+*This manifesto represents the guiding vision of the Open Growing Protocol. The technical specifications, while essential, are simply tools to realize this broader vision of a solarpunk future where growing technology empowers rather than exploits, connects rather than divides, and regenerates rather than depletes.*
