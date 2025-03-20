@@ -1,6 +1,9 @@
 [submodule "specifications"]
-	path = specifications
+	path = ogp-specifications
 	url = https://github.com/opengrowingalliance/specifications.git
 [submodule "schemas"]
-	path = schemas
+	path = ogp-schemas
 	url = https://github.com/opengrowingalliance/schemas
+[submodule "ogp-core"]
+	path = ogp-core
+	url = https://github.com/opengrowingalliance/ogp-core
