@@ -1,0 +1,6 @@
+[submodule "specifications"]
+	path = specifications
+	url = https://github.com/opengrowingalliance/specifications.git
+[submodule "schemas"]
+	path = schemas
+	url = https://github.com/opengrowingalliance/schemas
